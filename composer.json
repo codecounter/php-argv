@@ -1,6 +1,6 @@
 {
     "name": "codecounter/php-argv",
-    "version": "0.1.0-dev",
+    "version": "0.1.0",
     "description": "A library for process php argv in command line.",
     "license": "MIT",
     "authors": [
