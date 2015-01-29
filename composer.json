@@ -8,5 +8,8 @@
             "email": "codecounter@126.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": ["autoload.php"]
+    }
 }
