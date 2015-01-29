@@ -1,0 +1,12 @@
+{
+    "name": "codecounter/php-argv",
+    "description": "A library for process php argv in command line.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "codecounter",
+            "email": "codecounter@126.com"
+        }
+    ],
+    "require": {}
+}
