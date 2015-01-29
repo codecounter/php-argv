@@ -6,7 +6,7 @@ A library for process php argv in command line.
 Installation
 ============
 
-1. With composer
+With composer
 
 ```
 {
@@ -17,7 +17,7 @@ Installation
 }
 ```
 
-2. Without composer
+Without composer
 
 ```php
 require '/path/to/php-argv/autoload.php';
